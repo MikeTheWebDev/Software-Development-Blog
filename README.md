@@ -7,7 +7,7 @@ A place to share development methodologies problems, obstacles and solutions
 
 <b>Rule #1 Lock It Down: Lock all requirements during Sprints</b>
 
-Do you ever get the dreaded email regarding saying “By the way, we're also going to need you to do [insert new feature here]” at this week's demo on Friday? Yeah.. no big deal it's a small feature. Right? 
+Do you ever get the dreaded email saying “By the way, we're also going to need you to do [insert new feature here]” at this week's demo on Friday? Yeah.. no big deal it's a small feature. Right? 
 
 Now some ask, isn't that what Agile development is about? Being able to work on the fly and blow past the competition?
 
