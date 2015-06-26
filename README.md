@@ -19,7 +19,7 @@ Changes in mid sprint jeopardize work investmentt. Planning isn't free so having
 
 Didn't get everything done, because we added that new story? What do we do? Ask the scrum master or product owner to extend our sprint duration? No! NoOooo! Nooooo!
 
-Don't ever do that. People are habitual creatures. This goes back to proper planning and locking it down.... because the product owner is not always going to realize that by extending the sprint that your deliverables are going to be pushed back. Having known and consistent end dates helps us focus and test to ensure we are building our future stories on a solid foundation. This clarity is essential to a healthy development environment.  
+This goes back to proper planning and locking it down.... because the product owner is not always going to realize that by extending the sprint that your deliverables are going to be pushed back. Having known and consistent end dates helps us focus and test to ensure we are building our future stories on a solid foundation. This clarity is essential to a healthy development environment.  
 
 Bottom line is that if we have to choose between failing the story or extending the sprint we should fail our story and pick it up later. This allows us to address what went wrong instead of ignoring it.  By doing this we can ensure we are getting consistent estimates in the future.
 
