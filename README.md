@@ -9,7 +9,7 @@ A place to share development methodologies problems, obstacles and solutions
 
 Do you ever get the dreaded email saying “By the way, we're also going to need you to do [insert new feature here]” at this week's demo on Friday? Yeah.. no big deal it's a small feature. Right? 
 
-Now some ask, isn't that what Agile development is about? Being able to work on the fly and blow past the competition?
+Now some ask, isn't that what Agile development is about? 
 
 Nope. This is a common mistake people make trying to fit in additional features to the sprint/iteration. Joe Schmo the developer will now have to scramble to determine how to implement and integrate these new features for this sprint all before Friday. Oh and he will also have to coordinate with the DBAs to get the tables setup in the development environment. This means coordinating with additional team members to determine what additional tasks will be needed and going through management to get approval.   
 
