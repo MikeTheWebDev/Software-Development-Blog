@@ -13,7 +13,7 @@ Now some ask, isn't that what Agile development is about?
 
 Nope. This is a common mistake people make trying to fit in additional features to the sprint/iteration. Joe Schmo the developer will now have to scramble to determine how to implement and integrate these new features for this sprint all before Friday. Oh and he will also have to coordinate with the DBAs to get the tables setup in the development environment. This means coordinating with additional team members to determine what additional tasks will be needed and going through management to get approval.   
 
-Changes in mid sprint jeopardize work investmentt. Planning isn't free so having these additional stories increases the risk that we developers won't be able to deliver on time. 
+Changes in mid sprint jeopardize work investment. Planning isn't free so having these additional stories increases the risk that we developers won't be able to deliver on time. 
 
 <b>RULE #2 Time-Boxing</b>
 
