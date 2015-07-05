@@ -40,4 +40,3 @@ Only the team members actually doing the work know the true obstacles that may c
 Feedback is essential to ensure there are no misunderstandings down the line. Product owners don't have time to go through your long-winded technical specs. They need results, and we developers need feedback to guarantee that the user is happy with what we have delivered. Make feedback easy, and don't ignore what we get. You wouldn't add new stories to a broken foundation would you?
 
 
-HAPPY FOURTH OF JULY!!!!
